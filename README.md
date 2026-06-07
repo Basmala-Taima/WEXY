@@ -17,5 +17,5 @@ WEXY is a modern, clean, and fully responsive landing page built for SaaS (Softw
 * **JavaScript (ES6+):** For DOM manipulation and theme switching logic.
 
 ## 📸 Screenshots
-*(<img width="1863" height="922" alt="image" src="https://github.com/user-attachments/assets/e7443f72-1846-4aaf-a724-4c328b0511f4" />
-)*
+*<img width="1863" height="922" alt="image" src="https://github.com/user-attachments/assets/e7443f72-1846-4aaf-a724-4c328b0511f4" />
+*
