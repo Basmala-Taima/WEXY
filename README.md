@@ -7,6 +7,7 @@ WEXY is a modern, clean, and fully responsive landing page built for SaaS (Softw
 
 ## ✨ Features
 * **Dynamic Theme Toggling:** Seamless switching between Dark and Light modes using Vanilla JavaScript and Tailwind CSS.
+* **Interactive Form Validation:** Client-side input validation using JavaScript to ensure user data integrity before submission.
 * **Fully Responsive Design:** Optimized for all screen sizes (Mobile, Tablet, and Desktop) using Tailwind Grid and Flexbox.
 * **Modern UI Components:** Includes a well-structured Hero section, Features grid, interactive Pricing Plan switcher, and a styled Contact Form.
 * **Clean Code Architecture:** Written with semantic HTML and well-organized utility classes.
